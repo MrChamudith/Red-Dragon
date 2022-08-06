@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `📤I am alive now😏
+🤷‍♀️How can I help you?😘` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,10 +29,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94740952096'] // owner number
+global.ownername = "😎➳𝚂.𝙲𝚑𝚊𝚖𝚞𝚍𝚒𝚝𝚑亗❯❯" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: Chamudith2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -42,8 +42,8 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 global.callblock = "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 global.antibad = "false" // To remove bad word senders
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
+global.owner = ['+94740952096']
+global.ownertag = '+94740952096' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
@@ -54,7 +54,7 @@ global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94740952096'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
